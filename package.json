@@ -1,0 +1,10 @@
+{
+  "name": "fp-javascript-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gwanduke <letsget23@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
